@@ -25,4 +25,4 @@ In the output, you'll find options to open the app in a
 
 ## Screenshot
 
-![Project Screenshot](assets/images/screenshot.PNG)
+<img src="assets/images/screenshot.PNG" alt="Project Screenshot" width="300">
